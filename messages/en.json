@@ -1,6 +1,40 @@
 {
+  "nav": {
+    "rooms": "Rooms",
+    "location": "Location",
+    "about": "About",
+    "contact": "Contact",
+    "bookNow": "Book Now",
+    "menu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "footer": {
+    "tagline": "Family-run boutique stays in the heart of Ermoupolis, Syros.",
+    "quickLinks": "Quick Links",
+    "contactUs": "Get in Touch",
+    "followUs": "Follow Us",
+    "legal": "Legal",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy & Cookies",
+    "cancellation": "Cancellation Policy",
+    "copyright": "© {year} {name}. All rights reserved.",
+    "madeWith": "Made with care in Syros, Greece."
+  },
   "home": {
     "scaffoldNotice": "Template scaffold is ready. Branding, i18n and config are wired — pages come next.",
     "cta": "Book your stay"
+  },
+  "common": {
+    "bookNow": "Book Now",
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "from": "From",
+    "perNight": "/ night",
+    "guests": "{count} guests",
+    "sqm": "{size} m²",
+    "viewRoom": "View Room",
+    "closeGallery": "Close gallery",
+    "prevImage": "Previous image",
+    "nextImage": "Next image"
   }
 }

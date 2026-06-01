@@ -1,12 +1,10 @@
-import { setRequestLocale } from "next-intl/server";
-import { useTranslations } from "next-intl";
-
+import { getTranslations, setRequestLocale } from "next-intl/server";
+import { Link } from "@/i18n/navigation";
 import { siteConfig } from "@/config/site";
+import Section from "@/components/Section";
+import { buttonVariants } from "@/components/ui/Button";
+import { cn } from "@/lib/utils";
 
-/**
- * Placeholder home page. Pages are intentionally NOT built yet — this only
- * confirms the scaffold (i18n + branding tokens + config) renders end to end.
- */
 export default async function HomePage({
   params,
 }: {
@@ -14,25 +12,27 @@ export default async function HomePage({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
-
-  return <Scaffold />;
-}
-
-function Scaffold() {
-  const t = useTranslations("home");
+  const t = await getTranslations("home");
 
   return (
-    <main className="flex flex-1 flex-col items-center justify-center gap-4 p-8 text-center">
-      <p className="text-sm uppercase tracking-widest text-muted-foreground">
-        {siteConfig.tagline}
-      </p>
-      <h1 className="font-serif text-4xl font-medium text-foreground sm:text-5xl">
-        {siteConfig.name}
-      </h1>
-      <p className="max-w-prose text-muted-foreground">{t("scaffoldNotice")}</p>
-      <span className="mt-2 inline-flex items-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground">
-        {t("cta")}
-      </span>
-    </main>
+    <>
+      {/* Hero placeholder — replace with real hero section */}
+      <Section
+        className="min-h-[80vh] flex items-center bg-secondary/25"
+        containerClassName="flex flex-col items-center justify-center text-center"
+      >
+        <p className="text-xs font-bold uppercase tracking-widest text-muted-foreground mb-4">
+          {siteConfig.tagline}
+        </p>
+        <h1 className="mb-6 max-w-2xl">{siteConfig.name}</h1>
+        <p className="max-w-lg text-muted-foreground mb-10">{t("scaffoldNotice")}</p>
+        <Link
+          href="/contact#booking"
+          className={cn(buttonVariants({ variant: "primary", size: "lg" }))}
+        >
+          {t("cta")}
+        </Link>
+      </Section>
+    </>
   );
 }
