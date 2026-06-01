@@ -1,0 +1,56 @@
+slug: onar-luxuries
+
+name:
+  en: "Onar Luxuries"
+  el: "Onar Luxuries"
+
+shortDescription:
+  en: "Boutique studios and suites in the heart of Ermoupolis, less than 350 m from the port — with a breakfast basket served to your room each morning."
+  el: "Μπουτίκ στούντιο και σουίτες στην καρδιά της Ερμούπολης, λιγότερο από 350μ από το λιμάνι — με καλάθι πρωινού στο δωμάτιό σας κάθε πρωί."
+
+longDescription:
+  en: |
+    Onar Luxuries occupies a beautifully restored building in the neoclassical heart of Ermoupolis, the vibrant capital of the Cyclades. Each studio and suite is furnished with handmade pieces, combining the whitewash simplicity of the islands with warm, curated detail.
+
+    Breakfast is not a hotel buffet here. Every morning a handpicked basket — local honey, Syros's famous loukoumi, fresh bread and seasonal fruit — arrives at your door, ready for you to enjoy on your own terrace or at your kitchenette table.
+
+    From Onar Luxuries the island unfolds naturally: the neoclassical Miaouli Square and the Town Hall are a short stroll; the cool waters of Asteria beach are under a kilometre away; and the medieval Catholic hilltop of Ano Syros can be reached on foot in around twenty minutes.
+  el: |
+    Το Onar Luxuries καταλαμβάνει ένα όμορφα αποκατεστημένο κτήριο στη νεοκλασική καρδιά της Ερμούπολης, της ζωντανής πρωτεύουσας των Κυκλάδων. Κάθε στούντιο και σουίτα είναι επιπλωμένα με χειροποίητα κομμάτια, συνδυάζοντας την κυκλαδίτικη λευκή απλότητα με ζεστές, επιλεγμένες λεπτομέρειες.
+
+    Το πρωινό δεν είναι μπουφές ξενοδοχείου εδώ. Κάθε πρωί ένα επιλεγμένο καλάθι — τοπικό μέλι, το φημισμένο λουκούμι Σύρου, φρέσκο ψωμί και εποχιακά φρούτα — φτάνει στην πόρτα σας.
+
+    Από το Onar Luxuries το νησί ξεδιπλώνεται φυσιολογικά: η νεοκλασική Πλατεία Μιαούλη και το Δημαρχείο είναι κοντά· τα δροσερά νερά της παραλίας Αστερία βρίσκονται σε λιγότερο από ένα χιλιόμετρο· και ο μεσαιωνικός Καθολικός λόφος του Άνω Σύρου μπορεί να φτάσει κανείς με τα πόδια σε περίπου είκοσι λεπτά.
+
+locationText:
+  en: "Set less than 350 m from the Ermoupolis port and bus station, Onar Luxuries is ideally placed for exploring the best of Syros's neoclassical capital on foot. Miaouli Square, the Town Hall and the Church of Agios Nikolaos are all minutes away; Asteria beach is under a kilometre; Ano Syros village is 1.2 km. Syros Airport is 3 km away, with taxis available at the port. The nearest public car park is a 5-minute walk."
+  el: "Λιγότερο από 350μ από το λιμάνι και τον σταθμό λεωφορείων της Ερμούπολης, το Onar Luxuries βρίσκεται σε ιδανική θέση για εξερεύνηση της νεοκλασικής πρωτεύουσας της Σύρου με τα πόδια. Η Πλατεία Μιαούλη, το Δημαρχείο και η Εκκλησία του Αγίου Νικολάου είναι λίγα λεπτά μακριά· η παραλία Αστερία κάτω από ένα χιλιόμετρο· το χωριό Άνω Σύρος 1,2 χλμ. Το αεροδρόμιο Σύρου απέχει 3 χλμ."
+
+lat: 37.4445
+lng: 24.9419
+
+distanceNotes:
+  - en: "<350 m from Ermoupolis port"
+    el: "<350μ από το λιμάνι Ερμούπολης"
+  - en: "<350 m from the bus station"
+    el: "<350μ από τον σταθμό λεωφορείων"
+  - en: "3 km from Syros airport"
+    el: "3 χλμ από το αεροδρόμιο Σύρου"
+  - en: "5 min walk to nearest public parking"
+    el: "5 λεπτά με τα πόδια έως δημόσιο πάρκινγκ"
+  - en: "Near Miaouli Square, Town Hall & Church of Agios Nikolaos"
+    el: "Κοντά στην Πλατεία Μιαούλη, Δημαρχείο & Εκκλησία Αγίου Νικολάου"
+  - en: "Asteria beach <1 km"
+    el: "Παραλία Αστερία <1 χλμ"
+  - en: "Ano Syros 1.2 km"
+    el: "Άνω Σύρος 1,2 χλμ"
+
+heroImage: null
+gallery: []
+
+breakfastNote:
+  en: "A breakfast basket is served to the room each morning."
+  el: "Ένα καλάθι πρωινού σερβίρεται στο δωμάτιο κάθε πρωί."
+
+featured: true
+order: 1

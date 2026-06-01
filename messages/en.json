@@ -2,5 +2,48 @@
   "home": {
     "scaffoldNotice": "Template scaffold is ready. Branding, i18n and config are wired — pages come next.",
     "cta": "Book your stay"
+  },
+  "amenities": {
+    "air-conditioning": "Air-conditioning",
+    "tv": "Flat-screen TV",
+    "netflix": "Netflix",
+    "wifi": "Free Wi-Fi",
+    "safe": "Safe-deposit box",
+    "iron": "Iron",
+    "private-bathroom": "Private bathroom",
+    "toiletries": "Toiletries (shampoo & shower gel)",
+    "slippers": "Slippers",
+    "hairdryer": "Hairdryer",
+    "washing-machine": "Washing machine",
+    "refrigerator": "Refrigerator",
+    "kitchenette": "Kitchenette",
+    "toaster": "Toaster",
+    "kitchenware": "Kitchenware",
+    "espresso-machine": "Espresso machine",
+    "coffee-pot": "Coffee maker",
+    "water-boiler": "Water boiler",
+    "drying-rack": "Drying rack",
+    "balcony": "Balcony / terrace",
+    "sea-view": "Sea view",
+    "city-view": "City view",
+    "courtyard": "Courtyard access",
+    "heating": "Heating",
+    "bathtub": "Bathtub",
+    "baby-cot": "Baby cot (on request)",
+    "luggage-storage": "Luggage storage",
+    "parking": "Parking nearby"
+  },
+  "roomType": {
+    "room": "Room",
+    "studio": "Studio",
+    "suite": "Suite"
+  },
+  "bedType": {
+    "1-double": "1 × double bed",
+    "2-single-twin": "2 × single beds (twin)",
+    "1-double-sofabed": "1 × double bed + sofa-bed",
+    "2-double": "2 × double beds",
+    "1-king": "1 × king-size bed",
+    "other": "See description"
   }
 }

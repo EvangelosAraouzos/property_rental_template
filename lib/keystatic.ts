@@ -2,13 +2,11 @@ import { createReader } from "@keystatic/core/reader";
 import keystaticConfig from "@/keystatic.config";
 
 /**
- * Server-side Keystatic reader. Import this in Server Components and Route
- * Handlers to query CMS content from the local YAML/MDX files.
+ * Low-level Keystatic reader factory. Prefer the typed helpers in
+ * `@/lib/content` for page-level data fetching.
  *
- * Usage:
- *   const reader = getReader()
- *   const properties = await reader.collections.properties.all()
- *   const settings  = await reader.singletons.settings.read()
+ * Use this directly when you need raw access to collection/singleton APIs
+ * not wrapped by content.ts.
  */
 export function getReader() {
   return createReader(process.cwd(), keystaticConfig);

@@ -1,0 +1,44 @@
+slug: onar-luxuries-cycladic
+property: onar-luxuries
+name:
+  en: "Cycladic"
+  el: "Κυκλαδίτικο"
+roomType: studio
+bedType: 1-double
+maxGuests: 2
+sizeM2: 30
+floor: 0
+amenities:
+  - air-conditioning
+  - tv
+  - netflix
+  - wifi
+  - safe
+  - iron
+  - private-bathroom
+  - toiletries
+  - slippers
+  - hairdryer
+  - washing-machine
+  - refrigerator
+  - kitchenette
+  - toaster
+  - kitchenware
+  - espresso-machine
+  - coffee-pot
+  - water-boiler
+  - drying-rack
+houseRulesText:
+  en: "Check-in from 15:00. Check-out by 11:00. No pets, no parties or events, no smoking anywhere on the premises. Key box at the entrance for self check-in."
+  el: "Check-in από τις 15:00. Check-out έως τις 11:00. Δεν επιτρέπονται κατοικίδια, πάρτι ή εκδηλώσεις, κάπνισμα. Κλειδαριά με κωδικό στην είσοδο για αυτόματο check-in."
+breakfastNote:
+  en: "A breakfast basket is served to the room each morning."
+  el: "Ένα καλάθι πρωινού σερβίρεται στο δωμάτιο κάθε πρωί."
+description:
+  en: "The Cycladic studio is a light-filled ground-floor space fitted throughout with handmade furniture in the classic white-and-blue palette of the Cyclades. A fully equipped kitchenette, espresso machine and every home comfort ensure a relaxed, self-sufficient stay in the heart of Ermoupolis."
+  el: "Το Κυκλαδίτικο στούντιο είναι ένας φωτεινός χώρος ισογείου με χειροποίητα έπιπλα στην κλασική λευκή-και-μπλε παλέτα των Κυκλάδων. Πλήρως εξοπλισμένη κουζίνα, μηχανή espresso και κάθε άνεση σπιτιού."
+coverImage: null
+gallery: []
+videoUrl: null
+pricePerNight: null
+sortOrder: 1

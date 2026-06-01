@@ -1,0 +1,56 @@
+slug: onar-rustic-rooms
+
+name:
+  en: "Onar Rustic Rooms"
+  el: "Onar Rustic Rooms"
+
+shortDescription:
+  en: "Twelve characterful rooms and studios across three floors, 650 m from the port — with public parking 20 m away and luggage storage at reception."
+  el: "Δώδεκα με χαρακτήρα δωμάτια και στούντιο σε τρεις ορόφους, 650μ από το λιμάνι — με δημόσιο πάρκινγκ 20μ μακριά και φύλαξη αποσκευών στη ρεσεψιόν."
+
+longDescription:
+  en: |
+    Onar Rustic Rooms brings together twelve thoughtfully designed rooms and studios in a traditional building in the heart of Ermoupolis, spread across three floors. The property blends the raw charm of exposed stone and timber with modern amenities — a combination that draws returning guests season after season.
+
+    A 24-hour reception provides luggage storage, local recommendations and a warm welcome. Public parking is just 20 m from the front door, making it an easy base for guests arriving by car or moped.
+
+    Standard and Deluxe Room options suit those after a great bed in a great location; Standard and Deluxe Studio options add a kitchenette for guests preferring to cook for themselves.
+  el: |
+    Το Onar Rustic Rooms συγκεντρώνει δώδεκα σχολαστικά σχεδιασμένα δωμάτια και στούντιο σε ένα παραδοσιακό κτήριο στην καρδιά της Ερμούπολης, κατανεμημένα σε τρεις ορόφους. Η ιδιοκτησία συνδυάζει τη ρουστίκ γοητεία της εκτεθειμένης πέτρας και ξυλείας με σύγχρονες ανέσεις.
+
+    Μια ρεσεψιόν 24 ωρών παρέχει φύλαξη αποσκευών, τοπικές συστάσεις και θερμή υποδοχή. Το δημόσιο πάρκινγκ βρίσκεται μόλις 20μ από την κεντρική είσοδο.
+
+locationText:
+  en: "Located 650 m from the Ermoupolis port and bus station — a pleasant 8-minute walk along the waterfront promenade. Public parking is 20 m from the entrance; luggage storage is available at reception. Syros Airport is 3 km away. The same points of interest as Onar Luxuries are all within easy walking distance: Miaouli Square, Town Hall, Asteria beach and Ano Syros."
+  el: "Σε απόσταση 650μ από το λιμάνι και τον σταθμό λεωφορείων — μια ευχάριστη βόλτα 8 λεπτών κατά μήκος της προκυμαίας. Δημόσιο πάρκινγκ 20μ από την είσοδο· φύλαξη αποσκευών στη ρεσεψιόν. Αεροδρόμιο Σύρου 3 χλμ."
+
+lat: 37.4440
+lng: 24.9415
+
+distanceNotes:
+  - en: "650 m from Ermoupolis port"
+    el: "650μ από το λιμάνι Ερμούπολης"
+  - en: "650 m from the bus station"
+    el: "650μ από τον σταθμό λεωφορείων"
+  - en: "3 km from Syros airport"
+    el: "3 χλμ από το αεροδρόμιο Σύρου"
+  - en: "Public parking 20 m away"
+    el: "Δημόσιο πάρκινγκ 20μ μακριά"
+  - en: "Luggage storage at reception"
+    el: "Φύλαξη αποσκευών στη ρεσεψιόν"
+  - en: "Near Miaouli Square, Town Hall & Church of Agios Nikolaos"
+    el: "Κοντά στην Πλατεία Μιαούλη, Δημαρχείο & Εκκλησία Αγίου Νικολάου"
+  - en: "Asteria beach <1 km"
+    el: "Παραλία Αστερία <1 χλμ"
+  - en: "Ano Syros 1.2 km"
+    el: "Άνω Σύρος 1,2 χλμ"
+
+heroImage: null
+gallery: []
+
+breakfastNote:
+  en: ""
+  el: ""
+
+featured: true
+order: 2

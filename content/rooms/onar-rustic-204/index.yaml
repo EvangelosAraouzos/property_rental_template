@@ -1,0 +1,39 @@
+slug: onar-rustic-204
+property: onar-rustic-rooms
+name:
+  en: "Studio 204"
+  el: "Στούντιο 204"
+roomType: studio
+bedType: 1-double
+maxGuests: 2
+sizeM2: 0
+floor: 2
+amenities:
+  - air-conditioning
+  - tv
+  - netflix
+  - wifi
+  - safe
+  - iron
+  - private-bathroom
+  - toiletries
+  - hairdryer
+  - refrigerator
+  - kitchenette
+  - kitchenware
+  - coffee-pot
+  - water-boiler
+houseRulesText:
+  en: "Check-in from 15:00. Check-out by 11:00. No pets, no parties or events, no smoking anywhere on the premises. Key box at the entrance for self check-in."
+  el: "Check-in από τις 15:00. Check-out έως τις 11:00. Δεν επιτρέπονται κατοικίδια, πάρτι ή εκδηλώσεις, κάπνισμα. Κλειδαριά με κωδικό στην είσοδο για αυτόματο check-in."
+breakfastNote:
+  en: ""
+  el: ""
+description:
+  en: "Placeholder — please update via the Keystatic admin at /keystatic."
+  el: "Κείμενο προς συμπλήρωση — παρακαλώ ενημερώστε μέσω του Keystatic admin στο /keystatic."
+coverImage: null
+gallery: []
+videoUrl: null
+pricePerNight: null
+sortOrder: 11
