@@ -1,0 +1,49 @@
+checkIn: "15:00"
+checkOut: "11:00"
+minStay: 2
+
+heroHeading:
+  en: "Dream in Syros"
+  el: "Ονειρευτείτε στη Σύρο"
+
+heroSubheading:
+  en: "Two beautifully restored buildings in the heart of Ermoupolis — where the Cyclades begin and time slows down."
+  el: "Δύο όμορφα ανακαινισμένα κτήρια στην καρδιά της Ερμούπολης — εκεί που οι Κυκλάδες αρχίζουν και ο χρόνος επιβραδύνεται."
+
+aboutTitle:
+  en: "A family story, told in two buildings"
+  el: "Μια οικογενειακή ιστορία σε δύο κτήρια"
+
+aboutBody:
+  en: "Onar Syros grew from a simple love of Ermoupolis and its neoclassical soul. Our family has lived on Syros for generations, and these buildings — carefully restored stone by stone — are our way of sharing its beauty with travellers from around the world. Every detail, from the hand-picked linens to the breakfast basket waiting on your terrace, is a small act of hospitality we take great pride in."
+  el: "Το Οναρ Σύρος γεννήθηκε από μια απλή αγάπη για την Ερμούπολη και τη νεοκλασική της ψυχή. Η οικογένειά μας ζει στη Σύρο εδώ και γενιές, και αυτά τα κτήρια — προσεκτικά αποκατεστημένα πέτρα πέτρα — είναι ο τρόπος μας να μοιραστούμε την ομορφιά της με ταξιδιώτες από όλο τον κόσμο. Κάθε λεπτομέρεια, από τα επιλεγμένα λευκά είδη έως το καλάθι πρωινού που σας περιμένει στη βεράντα, είναι μια μικρή πράξη φιλοξενίας που μας γεμίζει υπερηφάνεια."
+
+highlights:
+  - icon: "MapPin"
+    title:
+      en: "Prime Location"
+      el: "Κεντρική Τοποθεσία"
+    body:
+      en: "Both buildings sit in the heart of Ermoupolis, the vibrant capital of the Cyclades — steps from the harbour, the cathedral and the neoclassical squares."
+      el: "Και τα δύο κτήρια βρίσκονται στην καρδιά της Ερμούπολης, της ζωντανής πρωτεύουσας των Κυκλάδων — βήματα από το λιμάνι, τον καθεδρικό και τις νεοκλασικές πλατείες."
+  - icon: "Waves"
+    title:
+      en: "Aegean Atmosphere"
+      el: "Αιγαιοπελαγίτικη Ατμόσφαιρα"
+    body:
+      en: "Wake to sea breezes and the shimmer of the Aegean. Our Vaporia building gazes directly over the water; even our courtyard retreat is a gentle walk from the waterfront."
+      el: "Ξυπνήστε με θαλασσινές αύρες και τη λαμπερή αντανάκλαση του Αιγαίου. Το κτήριό μας στη Βαπόρια αντικρίζει απευθείας τη θάλασσα."
+  - icon: "Heart"
+    title:
+      en: "Family Hospitality"
+      el: "Οικογενειακή Φιλοξενία"
+    body:
+      en: "We are not a hotel chain. We are a family who loves Syros and loves hosting people. Expect genuine warmth, local tips and a personal welcome every time."
+      el: "Δεν είμαστε αλυσίδα ξενοδοχείων. Είμαστε μια οικογένεια που αγαπά τη Σύρο και αγαπά να φιλοξενεί ανθρώπους. Περιμένετε πραγματική ζεστασιά, τοπικές συμβουλές και προσωπική υποδοχή κάθε φορά."
+  - icon: "Sparkles"
+    title:
+      en: "Thoughtful Details"
+      el: "Προσεγμένες Λεπτομέρειες"
+    body:
+      en: "Hand-selected local art, organic toiletries, complimentary breakfast baskets and fresh flowers from the market — because the small things make the real difference."
+      el: "Τοπικά произведения τέχνης, βιολογικά προϊόντα περιποίησης, δωρεάν καλάθια πρωινού και φρέσκα λουλούδια από την αγορά — γιατί οι μικρές λεπτομέρειες κάνουν τη μεγάλη διαφορά."

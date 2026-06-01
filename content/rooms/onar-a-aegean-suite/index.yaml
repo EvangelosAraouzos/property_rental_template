@@ -1,0 +1,51 @@
+slug: onar-a-aegean-suite
+property: onar-a
+
+title:
+  en: "Aegean Suite"
+  el: "Αιγαιοπελαγίτικη Σουίτα"
+
+tagline:
+  en: "The full panorama — from sunrise to the evening star"
+  el: "Το πλήρες πανόραμα — από την ανατολή ως το βραδινό αστέρι"
+
+shortDescription:
+  en: "The jewel of Onar A. A spacious one-bedroom suite on the top floor with a wraparound panoramic terrace that captures an unbroken stretch of the Aegean. A separate living area, a deep freestanding soaking tub and hand-picked antique furnishings make this the perfect choice for a special occasion or a longer stay."
+  el: "Το στολίδι του Οναρ Α. Μια ευρύχωρη σουίτα ενός υπνοδωματίου στον τελευταίο όροφο με περιμετρική πανοραμική βεράντα που συλλαμβάνει μια αδιάκοπη έκταση του Αιγαίου. Χωριστός χώρος καθιστικού, βαθιά μπανιέρα και επιλεγμένα αντίκ έπιπλα."
+
+coverImage: null
+gallery: []
+
+adults: 2
+children: 0
+bedrooms: 1
+bathrooms: 1
+sizeM2: 52
+floor: 2
+
+priceFrom: 155
+bookingUrl: null
+airbnbUrl: null
+
+amenities:
+  - en: "Panoramic wraparound sea-view terrace"
+    el: "Περιμετρική πανοραμική βεράντα με θέα θάλασσα"
+  - en: "King-size bed with organic cotton linen"
+    el: "King-size κρεβάτι με βιολογικά βαμβακερά σεντόνια"
+  - en: "Freestanding soaking tub"
+    el: "Αυτόνομη μπανιέρα"
+  - en: "Separate living room"
+    el: "Χωριστό καθιστικό"
+  - en: "Full kitchenette (hob, oven, fridge, Nespresso)"
+    el: "Πλήρης κουζίνα (εστία, φούρνος, ψυγείο, Nespresso)"
+  - en: "Air conditioning"
+    el: "Κλιματισμός"
+  - en: "Free Wi-Fi"
+    el: "Δωρεάν Wi-Fi"
+  - en: "Smart TV"
+    el: "Smart TV"
+  - en: "Premium toiletries"
+    el: "Premium καλλυντικά"
+
+featured: true
+order: 2

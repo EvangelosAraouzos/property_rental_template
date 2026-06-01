@@ -1,0 +1,47 @@
+slug: onar-b-cycladic-studio
+property: onar-b
+
+title:
+  en: "Cycladic Studio"
+  el: "Κυκλαδίτικο Στούντιο"
+
+tagline:
+  en: "Pure Cycladic simplicity in the heart of Ermoupolis"
+  el: "Αγνή κυκλαδίτικη απλότητα στην καρδιά της Ερμούπολης"
+
+shortDescription:
+  en: "A cosy studio on the ground floor of Onar B, stepping straight into the shared inner courtyard. Classic whitewashed walls, handmade ceramic accents and a comfortable double bed create a calm refuge after a day exploring the island. Perfect for solo travellers and couples who want to be at the centre of everything."
+  el: "Ένα άνετο στούντιο στο ισόγειο του Οναρ Β, που βγαίνει κατευθείαν στην κοινόχρηστη εσωτερική αυλή. Κλασικοί ασβεστωμένοι τοίχοι, χειροποίητες κεραμικές πινελιές και ένα άνετο διπλό κρεβάτι δημιουργούν μια ήρεμη καταφυγή."
+
+coverImage: null
+gallery: []
+
+adults: 2
+children: 0
+bedrooms: 0
+bathrooms: 1
+sizeM2: 28
+floor: 0
+
+priceFrom: 75
+bookingUrl: null
+airbnbUrl: null
+
+amenities:
+  - en: "Direct courtyard access"
+    el: "Άμεση πρόσβαση στην αυλή"
+  - en: "Double bed"
+    el: "Διπλό κρεβάτι"
+  - en: "Air conditioning"
+    el: "Κλιματισμός"
+  - en: "Kitchenette (hob, fridge, Nespresso)"
+    el: "Κουζίνα (εστία, ψυγείο, Nespresso)"
+  - en: "Private en-suite bathroom"
+    el: "Ιδιωτικό μπάνιο"
+  - en: "Free Wi-Fi"
+    el: "Δωρεάν Wi-Fi"
+  - en: "Hairdryer & toiletries"
+    el: "Πιστολάκι & καλλυντικά"
+
+featured: false
+order: 4

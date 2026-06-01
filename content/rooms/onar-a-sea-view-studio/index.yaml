@@ -1,0 +1,49 @@
+slug: onar-a-sea-view-studio
+property: onar-a
+
+title:
+  en: "Sea View Studio"
+  el: "Στούντιο με Θέα Θάλασσα"
+
+tagline:
+  en: "Wake up to the Aegean every morning"
+  el: "Ξυπνήστε με θέα το Αιγαίο κάθε πρωί"
+
+shortDescription:
+  en: "A bright, airy studio on the first floor of Onar A with a full-width balcony overlooking the shimmering Aegean. The open-plan layout maximises the natural light and sea breeze, while the kitchenette and en-suite bathroom provide everything you need for a comfortable stay. Ideal for couples seeking an intimate Cycladic retreat."
+  el: "Ένα φωτεινό, αεράτο στούντιο στον πρώτο όροφο του Οναρ Α με πλήρες μπαλκόνι που αντικρίζει το λαμπερό Αιγαίο. Η ανοικτή κάτοψη μεγιστοποιεί το φυσικό φως και τη θαλάσσια αύρα, ενώ η κουζίνα και το ιδιωτικό μπάνιο παρέχουν ό,τι χρειάζεστε για μια άνετη διαμονή."
+
+coverImage: null
+gallery: []
+
+adults: 2
+children: 0
+bedrooms: 0
+bathrooms: 1
+sizeM2: 32
+floor: 1
+
+priceFrom: 95
+bookingUrl: null
+airbnbUrl: null
+
+amenities:
+  - en: "Full-width sea-view balcony"
+    el: "Μπαλκόνι πλήρους πλάτους με θέα θάλασσα"
+  - en: "King-size bed"
+    el: "King-size κρεβάτι"
+  - en: "Air conditioning"
+    el: "Κλιματισμός"
+  - en: "Kitchenette (hob, fridge, Nespresso)"
+    el: "Κουζίνα (εστία, ψυγείο, Nespresso)"
+  - en: "Private en-suite bathroom"
+    el: "Ιδιωτικό μπάνιο"
+  - en: "Free Wi-Fi"
+    el: "Δωρεάν Wi-Fi"
+  - en: "Smart TV"
+    el: "Smart TV"
+  - en: "Hairdryer & toiletries"
+    el: "Πιστολάκι & καλλυντικά"
+
+featured: true
+order: 1

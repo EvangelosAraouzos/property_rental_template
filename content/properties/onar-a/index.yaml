@@ -1,0 +1,44 @@
+slug: onar-a
+
+title:
+  en: "Onar A"
+  el: "Οναρ Α"
+
+tagline:
+  en: "Historic Vaporia — steps from the sea"
+  el: "Ιστορική Βαπόρια — βήματα από τη θάλασσα"
+
+shortDescription:
+  en: "A beautifully restored 19th-century neoclassical building perched above the Aegean in Ermoupolis's celebrated Vaporia district. Three light-filled sea-facing apartments where whitewashed walls, terracotta tiles and uninterrupted sea views set the mood from the moment you arrive."
+  el: "Ένα όμορφα αποκατεστημένο νεοκλασικό κτήριο του 19ου αιώνα που δεσπόζει πάνω από το Αιγαίο στη φημισμένη συνοικία Βαπόρια της Ερμούπολης. Τρία φωτεινά διαμερίσματα με θέα στη θάλασσα όπου ασβεστωμένοι τοίχοι, πλακάκια τερακότα και αδιάκοπη θέα στη θάλασσα δίνουν τον τόνο από τη στιγμή που φτάνετε."
+
+address: "Vaporia, Ermoupolis 84100, Syros, Greece"
+
+coordinates:
+  lat: 37.4453
+  lng: 24.9439
+
+coverImage: null
+
+gallery: []
+
+amenities:
+  - en: "Free Wi-Fi"
+    el: "Δωρεάν Wi-Fi"
+  - en: "Air conditioning"
+    el: "Κλιματισμός"
+  - en: "Sea view"
+    el: "Θέα θάλασσα"
+  - en: "Private terrace or balcony"
+    el: "Ιδιωτική βεράντα ή μπαλκόνι"
+  - en: "Fully equipped kitchenette"
+    el: "Πλήρως εξοπλισμένη κουζίνα"
+  - en: "Fresh linen & towels"
+    el: "Φρέσκα σεντόνια και πετσέτες"
+  - en: "Breakfast basket (on request)"
+    el: "Καλάθι πρωινού (κατόπιν αιτήματος)"
+  - en: "Daily housekeeping"
+    el: "Καθημερινή οικιακή βοήθεια"
+
+featured: true
+order: 1
