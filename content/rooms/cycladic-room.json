@@ -1,0 +1,29 @@
+{
+  "nameEn": "Cycladic Room",
+  "nameEl": "Κυκλαδικό Δωμάτιο",
+  "propertySlug": "onar-house",
+  "descriptionEn": "Pure whitewashed walls, a hand-crafted iron bed frame, and a courtyard view define the Cycladic Room — an ode to island simplicity without sacrificing comfort. Cool in summer, warm in the evening, this room is the essence of Ermoupolis distilled into 32 square metres.",
+  "descriptionEl": "Καθαρά ασβεστωμένοι τοίχοι, χειροποίητο σιδερένιο κρεβάτι και θέα αυλής ορίζουν το Κυκλαδικό Δωμάτιο — μια ωδή στη νησιωτική απλότητα χωρίς να θυσιάζεται η άνεση. Δροσερό το καλοκαίρι, ζεστό το βράδυ.",
+  "size": 32,
+  "capacity": 2,
+  "beds": "1 Queen bed",
+  "floor": "1st floor",
+  "priceFrom": 145,
+  "viewEn": "Courtyard view",
+  "viewEl": "Θέα αυλής",
+  "heroImagePath": "/images/rooms/cycladic-room/hero.jpg",
+  "imagePaths": [
+    "/images/rooms/cycladic-room/gallery-1.jpg",
+    "/images/rooms/cycladic-room/gallery-2.jpg",
+    "/images/rooms/cycladic-room/gallery-3.jpg"
+  ],
+  "videoPath": "",
+  "videoPosterPath": "",
+  "amenityKeys": ["wifi", "ac", "breakfast", "shower", "hairdryer", "safe"],
+  "houseRulesEn": "No smoking. Quiet hours 23:00–08:00. Check-in from 15:00, check-out by 11:00. Pets not allowed.",
+  "houseRulesEl": "Απαγορεύεται το κάπνισμα. Ώρες ησυχίας 23:00–08:00. Check-in από 15:00, check-out έως 11:00. Δεν επιτρέπονται κατοικίδια.",
+  "breakfastNoteEn": "Continental breakfast included daily, served on the shared marble terrace (07:30–10:30).",
+  "breakfastNoteEl": "Ηπειρωτικό πρωινό συμπεριλαμβάνεται καθημερινά στην κοινόχρηστη μαρμάρινη βεράντα (07:30–10:30).",
+  "featured": false,
+  "order": 2
+}

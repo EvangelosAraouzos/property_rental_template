@@ -1,6 +1,115 @@
 {
+  "nav": {
+    "properties": "Properties",
+    "syros": "Syros",
+    "contact": "Contact",
+    "book": "Book a Stay"
+  },
+  "footer": {
+    "explore": "Explore",
+    "legal": "Legal",
+    "contact": "Contact Us",
+    "cancellation": "Cancellation Policy",
+    "houseRules": "House Rules",
+    "privacy": "Privacy & Cookies",
+    "rights": "All rights reserved.",
+    "madein": "Made with love in Syros."
+  },
   "home": {
-    "scaffoldNotice": "Template scaffold is ready. Branding, i18n and config are wired — pages come next.",
-    "cta": "Book your stay"
+    "scaffoldNotice": "Template scaffold is ready.",
+    "cta": "Book your stay",
+    "properties": "Our Properties",
+    "propertiesSubtitle": "Two distinct experiences, one island address",
+    "rooms": "Featured Rooms",
+    "roomsSubtitle": "Handpicked stays across both properties",
+    "syrosTeaser": "The Island",
+    "syrosCta": "Explore Syros",
+    "luxury": "Luxury",
+    "rustic": "Rustic",
+    "explore": "Explore",
+    "viewRoom": "View room"
+  },
+  "booking": {
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "guests": "Guests",
+    "guest": "guest",
+    "guestsPlural": "guests",
+    "night": "night",
+    "nights": "nights",
+    "search": "Search",
+    "checkAvailability": "Check Availability & Book",
+    "priceFrom": "Starting from",
+    "noChargeYet": "No charge yet — confirm with our team"
+  },
+  "amenities": {
+    "wifi": "Free Wi-Fi",
+    "ac": "Air Conditioning",
+    "breakfast": "Breakfast Included",
+    "pool": "Swimming Pool",
+    "terrace": "Private Terrace",
+    "parking": "Free Parking",
+    "tv": "Smart TV",
+    "safe": "In-room Safe",
+    "bathtub": "Freestanding Bathtub",
+    "shower": "Rain Shower",
+    "kitchenette": "Equipped Kitchenette",
+    "minibar": "Minibar",
+    "library": "Curated Library",
+    "concierge": "Concierge Service",
+    "sea-view": "Sea View",
+    "hairdryer": "Hairdryer",
+    "balcony": "Private Balcony"
+  },
+  "property": {
+    "rooms": "Rooms",
+    "location": "Location",
+    "distances": "Getting Around",
+    "highlights": "What's Included",
+    "gallery": "Gallery",
+    "explore": "Explore",
+    "viewRoom": "View room",
+    "from": "from",
+    "night": "night"
+  },
+  "room": {
+    "overview": "Overview",
+    "gallery": "Gallery",
+    "amenities": "Amenities",
+    "houseRules": "House Rules",
+    "breakfast": "Breakfast",
+    "availability": "Availability",
+    "back": "Back to property",
+    "floor": "Floor",
+    "capacity": "Guests",
+    "size": "Size",
+    "beds": "Beds"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We'd love to hear from you. Reach out to book, ask questions, or plan your stay.",
+    "nameLabel": "Your name",
+    "emailLabel": "Email address",
+    "phoneLabel": "Phone (optional)",
+    "messageLabel": "Message",
+    "subjectLabel": "Subject",
+    "sendLabel": "Send Message",
+    "sent": "Message sent! We'll reply within 24 hours.",
+    "properties": "Our Properties",
+    "callUs": "Call Us",
+    "emailUs": "Email Us",
+    "findUs": "Find Us on the Map"
+  },
+  "syros": {
+    "backLink": "Back to home"
+  },
+  "policies": {
+    "lastUpdated": "Last updated",
+    "backLink": "Policies"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "message": "The page you are looking for does not exist.",
+    "home": "Go home"
   }
 }

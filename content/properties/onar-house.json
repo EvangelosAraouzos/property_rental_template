@@ -1,0 +1,37 @@
+{
+  "nameEn": "Onar House",
+  "nameEl": "Onar House",
+  "taglineEn": "Neoclassical elegance above Miaouli Square",
+  "taglineEl": "Νεοκλασική κομψότητα πάνω από την πλατεία Μιαούλη",
+  "type": "luxury",
+  "descriptionEn": "A fully restored 19th-century neoclassical mansion perched above Miaouli Square, Onar House combines the grandeur of Ermoupolis's golden era with thoughtfully curated modern comforts. High ceilings, hand-painted frescoes, and original marble floors set the tone for an unhurried stay rooted in place. Three distinctive suites share a marble breakfast terrace where the sounds of the square drift up on the morning breeze.",
+  "descriptionEl": "Μια πλήρως ανακαινισμένη νεοκλασική έπαυλη του 19ου αιώνα πάνω από την πλατεία Μιαούλη, το Onar House συνδυάζει τη μεγαλοπρέπεια της χρυσής εποχής της Ερμούπολης με σύγχρονες ανέσεις. Ψηλές οροφές, χειροποίητες τοιχογραφίες και αρχικά μαρμάρινα δάπεδα δίνουν τον τόνο για μια ξεκούραστη διαμονή. Τρεις διακριτές σουίτες μοιράζονται μια μαρμάρινη βεράντα πρωινού.",
+  "address": "Miaouli 14, Ermoupolis, Syros 84100",
+  "lat": 37.4445,
+  "lng": 24.9419,
+  "heroImagePath": "/images/properties/onar-house/hero.jpg",
+  "imagePaths": [
+    "/images/properties/onar-house/gallery-1.jpg",
+    "/images/properties/onar-house/gallery-2.jpg",
+    "/images/properties/onar-house/gallery-3.jpg",
+    "/images/properties/onar-house/gallery-4.jpg"
+  ],
+  "amenityKeys": ["breakfast", "wifi", "ac", "terrace", "concierge", "library"],
+  "highlightsEn": [
+    "Daily continental breakfast on the marble terrace",
+    "Curated library of Cycladic history & travel",
+    "Personal concierge for island experiences",
+    "Air conditioning in all suites"
+  ],
+  "highlightsEl": [
+    "Ηπειρωτικό πρωινό στη μαρμάρινη βεράντα",
+    "Επιμελημένη βιβλιοθήκη κυκλαδικής ιστορίας",
+    "Προσωπικός συνοδός για νησιωτικές εμπειρίες",
+    "Κλιματισμός σε όλες τις σουίτες"
+  ],
+  "distanceLabelEn": ["Miaouli Square", "Port of Ermoupolis", "Apollo Theatre", "Vaporia Beach"],
+  "distanceLabelEl": ["Πλατεία Μιαούλη", "Λιμάνι Ερμούπολης", "Θέατρο Απόλλων", "Παραλία Βαπόρια"],
+  "distanceValue": ["2 min walk", "5 min walk", "8 min walk", "12 min walk"],
+  "featured": true,
+  "order": 1
+}

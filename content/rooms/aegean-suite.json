@@ -1,0 +1,31 @@
+{
+  "nameEn": "Aegean Suite",
+  "nameEl": "Σουίτα Αιγαίου",
+  "propertySlug": "onar-house",
+  "descriptionEn": "The crown jewel of Onar House, the Aegean Suite occupies the entire upper floor of the restored mansion. Wake to sea glimpses between neoclassical rooftops, sip breakfast on your own marble balcony, and end the day in a deep freestanding bathtub under painted ceilings. Everything here has been chosen for guests who appreciate the art of slowing down.",
+  "descriptionEl": "Το στολίδι του Onar House, η Σουίτα Αιγαίου καταλαμβάνει ολόκληρο τον άνω όροφο. Ξυπνήστε με θέα θαλάσσης ανάμεσα σε νεοκλασικές στέγες, απολαύστε πρωινό στο μαρμάρινο μπαλκόνι σας και τελειώστε την ημέρα σε μια βαθιά ελεύθερη μπανιέρα κάτω από ζωγραφιστές οροφές.",
+  "size": 52,
+  "capacity": 2,
+  "beds": "1 King bed",
+  "floor": "3rd floor",
+  "priceFrom": 220,
+  "viewEn": "Sea & rooftop view",
+  "viewEl": "Θέα θαλάσσης & στεγών",
+  "heroImagePath": "/images/rooms/aegean-suite/hero.jpg",
+  "imagePaths": [
+    "/images/rooms/aegean-suite/gallery-1.jpg",
+    "/images/rooms/aegean-suite/gallery-2.jpg",
+    "/images/rooms/aegean-suite/gallery-3.jpg",
+    "/images/rooms/aegean-suite/gallery-4.jpg",
+    "/images/rooms/aegean-suite/gallery-5.jpg"
+  ],
+  "videoPath": "",
+  "videoPosterPath": "",
+  "amenityKeys": ["wifi", "ac", "breakfast", "bathtub", "balcony", "minibar", "safe", "hairdryer"],
+  "houseRulesEn": "No smoking inside the suite. Quiet hours 23:00–08:00. No parties or events. Check-in from 15:00, check-out by 11:00. Pets not allowed.",
+  "houseRulesEl": "Απαγορεύεται το κάπνισμα εντός της σουίτας. Ώρες ησυχίας 23:00–08:00. Δεν επιτρέπονται πάρτι. Check-in από 15:00, check-out έως 11:00. Δεν επιτρέπονται κατοικίδια.",
+  "breakfastNoteEn": "Continental breakfast included daily, served on the marble terrace (07:30–10:30). Vegetarian and gluten-free options available on request.",
+  "breakfastNoteEl": "Ηπειρωτικό πρωινό συμπεριλαμβάνεται καθημερινά στη μαρμάρινη βεράντα (07:30–10:30). Χορτοφαγικές και χωρίς γλουτένη επιλογές κατόπιν αιτήματος.",
+  "featured": true,
+  "order": 1
+}

@@ -1,0 +1,30 @@
+{
+  "nameEn": "Studio Deluxe",
+  "nameEl": "Studio Deluxe",
+  "propertySlug": "onar-studios",
+  "descriptionEn": "The largest of the Onar Studios units, the Studio Deluxe offers a wide wraparound terrace that frames an uninterrupted panorama of the Aegean. Inside: stone walls, bespoke local timber furniture, a fully equipped kitchenette, and a generous bathroom with rain shower. For two guests who want both independence and a view.",
+  "descriptionEl": "Το μεγαλύτερο από τα studios, το Studio Deluxe προσφέρει μια πλατιά περιτρίγυρη βεράντα με αδιάλειπτη πανοραμική θέα του Αιγαίου. Μέσα: πέτρινοι τοίχοι, έπιπλα από τοπικό ξύλο, πλήρως εξοπλισμένο κουζινάκι και ευρύχωρο μπάνιο με rain shower.",
+  "size": 38,
+  "capacity": 2,
+  "beds": "1 King bed",
+  "floor": "Upper level",
+  "priceFrom": 160,
+  "viewEn": "Panoramic sea view",
+  "viewEl": "Πανοραμική θέα θαλάσσης",
+  "heroImagePath": "/images/rooms/studio-deluxe/hero.jpg",
+  "imagePaths": [
+    "/images/rooms/studio-deluxe/gallery-1.jpg",
+    "/images/rooms/studio-deluxe/gallery-2.jpg",
+    "/images/rooms/studio-deluxe/gallery-3.jpg",
+    "/images/rooms/studio-deluxe/gallery-4.jpg"
+  ],
+  "videoPath": "",
+  "videoPosterPath": "",
+  "amenityKeys": ["wifi", "ac", "kitchenette", "terrace", "sea-view", "shower", "hairdryer", "safe"],
+  "houseRulesEn": "No smoking. Quiet hours 23:00–08:00. Check-in from 15:00, check-out by 11:00. Pets not allowed.",
+  "houseRulesEl": "Απαγορεύεται το κάπνισμα. Ώρες ησυχίας 23:00–08:00. Check-in από 15:00, check-out έως 11:00. Δεν επιτρέπονται κατοικίδια.",
+  "breakfastNoteEn": "Breakfast not included. Fully equipped kitchenette for self-catering. Local bakery 3 min away.",
+  "breakfastNoteEl": "Πρωινό δεν συμπεριλαμβάνεται. Πλήρως εξοπλισμένο κουζινάκι. Τοπικός φούρνος 3 λεπτά μακριά.",
+  "featured": true,
+  "order": 1
+}

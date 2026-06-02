@@ -1,0 +1,29 @@
+{
+  "titleEn": "Cancellation Policy",
+  "titleEl": "Πολιτική Ακύρωσης",
+  "order": 1,
+  "sectionHeadingsEn": [
+    "Free Cancellation",
+    "Late Cancellation",
+    "No-Show",
+    "How to Cancel"
+  ],
+  "sectionBodiesEn": [
+    "You may cancel your reservation free of charge up to 7 days before your scheduled check-in date and receive a full refund of any prepaid amount. Cancellations made more than 7 days in advance will be processed within 5–7 business days.",
+    "Cancellations made less than 7 days before arrival will be charged 50% of the total booking amount. The remaining balance, if any, will be refunded within 5–7 business days.",
+    "In the event of a no-show (failure to arrive without prior notice), 100% of the total booking amount will be charged and no refund will be issued.",
+    "To cancel your reservation, please contact us directly at stay@onarsyros.com or call +30 22810 00000 with your booking reference number. Cancellations received by email are valid from the time of our confirmation reply."
+  ],
+  "sectionHeadingsEl": [
+    "Δωρεάν Ακύρωση",
+    "Καθυστερημένη Ακύρωση",
+    "Μη Εμφάνιση",
+    "Πώς να Ακυρώσετε"
+  ],
+  "sectionBodiesEl": [
+    "Μπορείτε να ακυρώσετε την κράτησή σας δωρεάν έως 7 ημέρες πριν την ημερομηνία check-in και να λάβετε πλήρη επιστροφή χρημάτων. Η επιστροφή επεξεργάζεται εντός 5–7 εργάσιμων ημερών.",
+    "Ακυρώσεις που γίνονται λιγότερο από 7 ημέρες πριν την άφιξη χρεώνονται με 50% του συνολικού ποσού κράτησης. Το υπόλοιπο ποσό επιστρέφεται εντός 5–7 εργάσιμων ημερών.",
+    "Σε περίπτωση μη εμφάνισης χωρίς προειδοποίηση, χρεώνεται το 100% του συνολικού ποσού κράτησης και δεν γίνεται επιστροφή χρημάτων.",
+    "Για να ακυρώσετε την κράτησή σας, επικοινωνήστε μαζί μας στο stay@onarsyros.com ή καλέστε +30 22810 00000 με τον αριθμό κράτησής σας."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "nameEn": "Onar Studios",
+  "nameEl": "Onar Studios",
+  "taglineEn": "Stone-built calm above the old harbour",
+  "taglineEl": "Πέτρινη ηρεμία πάνω από το παλιό λιμάνι",
+  "type": "rustic",
+  "descriptionEn": "Tucked into the hillside above Ano Syros, Onar Studios is a cluster of stone-built studios where rough-hewn walls, shaded courtyards, and sweeping sea views create a quiet retreat from the busy waterfront. Each studio is self-contained with a kitchenette and private terrace — ideal for guests who prize simplicity, independence, and an authentic Cycladic atmosphere.",
+  "descriptionEl": "Χωμένο στην πλαγιά πάνω από το Άνω Σύρο, το Onar Studios είναι ένα σύμπλεγμα πέτρινων studios όπου χοντροκομμένοι τοίχοι, σκιαστικές αυλές και ευρεία θέα θαλάσσης δημιουργούν μια ήσυχη απόσυρση. Κάθε studio διαθέτει κουζινάκι και ιδιωτική βεράντα — ιδανικό για επισκέπτες που εκτιμούν την απλότητα και την αυθεντική κυκλαδική ατμόσφαιρα.",
+  "address": "Akti Petrou Ralli 8, Ano Syros, Syros 84100",
+  "lat": 37.4480,
+  "lng": 24.9300,
+  "heroImagePath": "/images/properties/onar-studios/hero.jpg",
+  "imagePaths": [
+    "/images/properties/onar-studios/gallery-1.jpg",
+    "/images/properties/onar-studios/gallery-2.jpg",
+    "/images/properties/onar-studios/gallery-3.jpg"
+  ],
+  "amenityKeys": ["wifi", "ac", "kitchenette", "terrace", "sea-view", "parking"],
+  "highlightsEn": [
+    "Panoramic Aegean view from every studio",
+    "Private terrace or stone courtyard",
+    "Equipped kitchenette for self-catering",
+    "Complimentary parking on site"
+  ],
+  "highlightsEl": [
+    "Πανοραμική θέα Αιγαίου από κάθε studio",
+    "Ιδιωτική βεράντα ή αυλή",
+    "Εξοπλισμένο κουζινάκι",
+    "Δωρεάν χώρος στάθμευσης"
+  ],
+  "distanceLabelEn": ["Ano Syros Village", "Ermoupolis Centre", "Galissas Beach", "Bus Stop"],
+  "distanceLabelEl": ["Χωριό Άνω Σύρου", "Κέντρο Ερμούπολης", "Παραλία Γαλησσά", "Στάση Λεωφορείου"],
+  "distanceValue": ["5 min walk", "15 min by car", "20 min by car", "3 min walk"],
+  "featured": true,
+  "order": 2
+}

@@ -1,0 +1,30 @@
+{
+  "nameEn": "Garden Suite",
+  "nameEl": "Σουίτα Κήπου",
+  "propertySlug": "onar-house",
+  "descriptionEn": "Open the French doors of the Garden Suite and step directly into a private jasmine-scented courtyard — your own corner of Ermoupolis. The ground-floor suite is ideal for guests who prefer cool stone floors underfoot, direct garden access, and a living area separate from the sleeping space.",
+  "descriptionEl": "Ανοίξτε τις γαλλικές πόρτες της Σουίτας Κήπου και βγείτε κατευθείαν σε μια ιδιωτική αυλή που μυρίζει γιασεμί. Κατάλληλη για επισκέπτες που προτιμούν δροσερά πέτρινα δάπεδα, άμεση πρόσβαση στον κήπο και χώρο καθιστικού χωριστό από τον χώρο ύπνου.",
+  "size": 44,
+  "capacity": 2,
+  "beds": "1 King bed",
+  "floor": "Ground floor",
+  "priceFrom": 185,
+  "viewEn": "Private garden & courtyard",
+  "viewEl": "Ιδιωτικός κήπος & αυλή",
+  "heroImagePath": "/images/rooms/garden-suite/hero.jpg",
+  "imagePaths": [
+    "/images/rooms/garden-suite/gallery-1.jpg",
+    "/images/rooms/garden-suite/gallery-2.jpg",
+    "/images/rooms/garden-suite/gallery-3.jpg",
+    "/images/rooms/garden-suite/gallery-4.jpg"
+  ],
+  "videoPath": "",
+  "videoPosterPath": "",
+  "amenityKeys": ["wifi", "ac", "breakfast", "shower", "terrace", "minibar", "safe", "hairdryer"],
+  "houseRulesEn": "No smoking. Quiet hours 23:00–08:00. Check-in from 15:00, check-out by 11:00. Small pets considered on request.",
+  "houseRulesEl": "Απαγορεύεται το κάπνισμα. Ώρες ησυχίας 23:00–08:00. Check-in από 15:00, check-out έως 11:00. Μικρά κατοικίδια κατόπιν αιτήματος.",
+  "breakfastNoteEn": "Continental breakfast included daily, served on the marble terrace (07:30–10:30) or in the garden on request.",
+  "breakfastNoteEl": "Ηπειρωτικό πρωινό συμπεριλαμβάνεται καθημερινά στη μαρμάρινη βεράντα (07:30–10:30) ή στον κήπο κατόπιν αιτήματος.",
+  "featured": true,
+  "order": 3
+}

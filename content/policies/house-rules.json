@@ -1,0 +1,41 @@
+{
+  "titleEn": "House Rules",
+  "titleEl": "Κανόνες Σπιτιού",
+  "order": 2,
+  "sectionHeadingsEn": [
+    "Check-In & Check-Out",
+    "Quiet Hours",
+    "Smoking",
+    "Pets",
+    "Guests & Visitors",
+    "Damage & Liability",
+    "Environment"
+  ],
+  "sectionBodiesEn": [
+    "Check-in time is from 15:00. Check-out is by 11:00. Early check-in and late check-out may be arranged subject to availability — please contact us in advance. We ask that you inform us of your approximate arrival time so we can welcome you personally.",
+    "We ask all guests to respect quiet hours between 23:00 and 08:00. Onar House and Onar Studios are in residential neighbourhoods and our neighbours deserve consideration. Parties, events, or gatherings beyond the registered number of guests are not permitted.",
+    "Smoking is strictly prohibited in all indoor spaces including rooms, common areas, and stairwells. Smoking is permitted in designated outdoor areas only. A cleaning fee of €150 will be charged if evidence of indoor smoking is found.",
+    "Pets are not permitted at Onar House. At Onar Studios, small pets (under 10 kg) may be accommodated by prior arrangement and subject to a €25/night supplementary fee. Please contact us before booking to confirm availability.",
+    "Only registered guests are permitted to stay overnight. Daytime visitors are welcome between 09:00 and 21:00. Please inform us if you expect visitors so we can prepare accordingly. The maximum occupancy per unit must not be exceeded.",
+    "Guests are responsible for any damage caused to the property, furnishings, or equipment during their stay. Damage will be assessed at check-out and charged to the payment method on file. We ask that you treat our homes with the same care you would your own.",
+    "We care deeply about the islands we call home. Please conserve water and energy, sort waste into the provided bins, and avoid single-use plastics. Refillable water bottles are available in all rooms. We use biodegradable cleaning products throughout."
+  ],
+  "sectionHeadingsEl": [
+    "Check-In & Check-Out",
+    "Ώρες Ησυχίας",
+    "Κάπνισμα",
+    "Κατοικίδια",
+    "Επισκέπτες",
+    "Ζημιές & Ευθύνη",
+    "Περιβάλλον"
+  ],
+  "sectionBodiesEl": [
+    "Το check-in γίνεται από τις 15:00. Το check-out έως τις 11:00. Πρώιμο check-in ή αργοπορημένο check-out μπορεί να διευθετηθεί ανάλογα με τη διαθεσιμότητα — επικοινωνήστε μαζί μας εκ των προτέρων. Σας ζητάμε να μας ενημερώσετε για την κατά προσέγγιση ώρα άφιξής σας.",
+    "Παρακαλούμε να σέβεστε τις ώρες ησυχίας μεταξύ 23:00 και 08:00. Δεν επιτρέπονται πάρτι ή εκδηλώσεις πέραν του αριθμού εγγεγραμμένων επισκεπτών.",
+    "Το κάπνισμα απαγορεύεται αυστηρά σε όλους τους εσωτερικούς χώρους. Επιτρέπεται μόνο σε καθορισμένες εξωτερικές περιοχές. Σε περίπτωση κατανάλωσης τσιγάρου εσωτερικά χρεώνεται €150 για καθαρισμό.",
+    "Κατοικίδια δεν επιτρέπονται στο Onar House. Στα Onar Studios, μικρά κατοικίδια (κάτω από 10 κg) γίνονται δεκτά κατόπιν προηγούμενης συμφωνίας με συμπλήρωμα €25/βράδυ.",
+    "Μόνο εγγεγραμμένοι επισκέπτες επιτρέπεται να διανυκτερεύουν. Οι επισκέπτες ημέρας είναι ευπρόσδεκτοι μεταξύ 09:00 και 21:00.",
+    "Οι επισκέπτες είναι υπεύθυνοι για οποιαδήποτε ζημιά προκληθεί στο κτήριο κατά τη διαμονή τους.",
+    "Σας παρακαλούμε να εξοικονομείτε νερό και ενέργεια, να διαχωρίζετε τα απόβλητα και να αποφεύγετε τα μονόχρηστα πλαστικά. Χρησιμοποιούμε βιοαποικοδομήσιμα προϊόντα καθαρισμού."
+  ]
+}

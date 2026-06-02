@@ -1,0 +1,15 @@
+{
+  "heroTitleEn": "Where the Aegean Meets Elegance",
+  "heroTitleEl": "Εκεί που το Αιγαίο Συναντά την Κομψότητα",
+  "heroSubtitleEn": "Boutique family stays in the heart of Ermoupolis, Syros",
+  "heroSubtitleEl": "Boutique οικογενειακή διαμονή στην καρδιά της Ερμούπολης, Σύρος",
+  "heroImagePath": "/images/hero.jpg",
+  "heroVideoPath": "",
+  "heroPosterPath": "/images/hero-poster.jpg",
+  "aboutEn": "Two lovingly restored neoclassical buildings, one island story — where Cycladic simplicity, warm hospitality, and the spirit of Syros come together.",
+  "aboutEl": "Δύο αγαπητικά ανακαινισμένα νεοκλασικά κτήρια, μία νησιωτική ιστορία — όπου η κυκλαδική απλότητα, η ζεστή φιλοξενία και το πνεύμα της Σύρου ενώνονται.",
+  "syrosTeaserEn": "Syros is unlike any other Cycladic island — a year-round culture hub with neoclassical mansions, opera, remarkable food, and secluded coves all within reach.",
+  "syrosTeaserEl": "Η Σύρος είναι ανόμοια από κάθε άλλο νησί των Κυκλάδων — ένας κόμβος πολιτισμού με νεοκλασικές επαύλεις, όπερα, εξαιρετική γαστρονομία και μυστικές παραλίες.",
+  "syrosTeaserImagePath": "/images/syros-teaser.jpg",
+  "featuredRoomSlugs": ["aegean-suite", "garden-suite", "studio-deluxe"]
+}

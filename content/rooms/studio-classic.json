@@ -1,0 +1,29 @@
+{
+  "nameEn": "Studio Classic",
+  "nameEl": "Studio Classic",
+  "propertySlug": "onar-studios",
+  "descriptionEn": "Compact, character-filled, and connected to a shared stone courtyard, the Studio Classic is the most approachable way to experience Onar Studios. White-washed walls, a cosy kitchenette, and a shaded terrace seat for two — everything you need for a proper Cycladic slow-down.",
+  "descriptionEl": "Συμπαγές, γεμάτο χαρακτήρα και συνδεδεμένο με μια κοινόχρηστη πέτρινη αυλή, το Studio Classic είναι ο πιο προσιτός τρόπος να ζήσετε το Onar Studios. Ασβεστωμένοι τοίχοι, άνετο κουζινάκι και σκιαστή βεράντα για δύο.",
+  "size": 26,
+  "capacity": 2,
+  "beds": "1 Double bed",
+  "floor": "Ground floor",
+  "priceFrom": 115,
+  "viewEn": "Courtyard & partial sea view",
+  "viewEl": "Αυλή & μερική θέα θαλάσσης",
+  "heroImagePath": "/images/rooms/studio-classic/hero.jpg",
+  "imagePaths": [
+    "/images/rooms/studio-classic/gallery-1.jpg",
+    "/images/rooms/studio-classic/gallery-2.jpg",
+    "/images/rooms/studio-classic/gallery-3.jpg"
+  ],
+  "videoPath": "",
+  "videoPosterPath": "",
+  "amenityKeys": ["wifi", "ac", "kitchenette", "terrace", "shower", "hairdryer"],
+  "houseRulesEn": "No smoking. Quiet hours 23:00–08:00. Check-in from 15:00, check-out by 11:00. Pets not allowed.",
+  "houseRulesEl": "Απαγορεύεται το κάπνισμα. Ώρες ησυχίας 23:00–08:00. Check-in από 15:00, check-out έως 11:00. Δεν επιτρέπονται κατοικίδια.",
+  "breakfastNoteEn": "Breakfast not included. Kitchenette provided. Local bakery 3 min away.",
+  "breakfastNoteEl": "Πρωινό δεν συμπεριλαμβάνεται. Κουζινάκι διαθέσιμο. Τοπικός φούρνος 3 λεπτά μακριά.",
+  "featured": false,
+  "order": 2
+}
