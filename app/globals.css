@@ -82,3 +82,27 @@
     font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
   }
 }
+
+/*
+ * react-day-picker theming — bind the library's CSS variables to brand tokens so
+ * the date range picker matches the client palette without any per-client edits.
+ * (The base stylesheet is imported in the DateRangeField component.)
+ */
+.rdp-root {
+  --rdp-accent-color: var(--color-primary);
+  --rdp-accent-background-color: color-mix(in srgb, var(--color-primary) 14%, transparent);
+  --rdp-range_middle-background-color: color-mix(in srgb, var(--color-primary) 14%, transparent);
+  --rdp-range_start-color: var(--color-primary-foreground);
+  --rdp-range_end-color: var(--color-primary-foreground);
+  --rdp-today-color: var(--color-accent);
+  --rdp-day-width: 2.25rem;
+  --rdp-day-height: 2.25rem;
+  --rdp-day_button-width: 2.25rem;
+  --rdp-day_button-height: 2.25rem;
+  font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+}
+
+.rdp-disabled {
+  opacity: 0.35;
+  text-decoration: line-through;
+}

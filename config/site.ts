@@ -76,6 +76,15 @@ export interface MapCenter {
   zoom: number;
 }
 
+export interface BookingConfig {
+  /** Minimum nights per stay. */
+  minNights: number;
+  /** How many nights out the calendar/search horizon extends. */
+  horizonDays: number;
+  /** Upper bound on guests selectable in the search (UI convenience only). */
+  maxGuests: number;
+}
+
 export interface SiteConfig {
   /** Business / brand name. */
   name: string;
@@ -114,6 +123,9 @@ export interface SiteConfig {
 
   /** Default map viewport (used by location sections / contact map). */
   map: MapCenter;
+
+  /** Request-to-reserve booking behaviour. */
+  booking: BookingConfig;
 }
 
 export const siteConfig: SiteConfig = {
@@ -179,6 +191,12 @@ export const siteConfig: SiteConfig = {
     lat: 37.4445,
     lng: 24.9419,
     zoom: 14,
+  },
+
+  booking: {
+    minNights: 1,
+    horizonDays: 365,
+    maxGuests: 8,
   },
 };
 

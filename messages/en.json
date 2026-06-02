@@ -1,6 +1,51 @@
 {
   "home": {
-    "scaffoldNotice": "Template scaffold is ready. Branding, i18n and config are wired — pages come next.",
-    "cta": "Book your stay"
+    "intro": "Two restored buildings in the heart of Ermoupolis. Choose your dates and send a reservation request — we confirm every booking personally.",
+    "bookingHeading": "Check availability",
+    "roomsHeading": "Our rooms",
+    "priceFrom": "From {price} / night",
+    "backHome": "Back to all rooms"
+  },
+  "booking": {
+    "search": {
+      "guests": "Guests",
+      "guestsCount": "{count, plural, one {# guest} other {# guests}}",
+      "searchButton": "Search",
+      "searching": "Searching…",
+      "error": "Something went wrong while searching. Please try again.",
+      "noResults": "No rooms are available for those dates. Try different dates or fewer guests.",
+      "resultsTitle": "{count, plural, one {# room available} other {# rooms available}}",
+      "selectDates": "Select your check-in and check-out dates to continue.",
+      "selectedRange": "{checkIn} → {checkOut} · {nights, plural, one {# night} other {# nights}}",
+      "back": "Change selection"
+    },
+    "room": {
+      "priceFrom": "From {price}",
+      "requestButton": "Request",
+      "bookHeading": "Book this room"
+    },
+    "form": {
+      "title": "Request your stay",
+      "titleFor": "Request · {room}",
+      "summary": "{nights, plural, one {# night} other {# nights}} · {guests, plural, one {# guest} other {# guests}}",
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone (optional)",
+      "message": "Message (optional)",
+      "messagePlaceholder": "Arrival time, questions, special requests…",
+      "submit": "Send reservation request",
+      "submitting": "Sending…",
+      "notInstant": "This is a request, not an instant booking. We'll email you to confirm availability.",
+      "success": {
+        "title": "Request received",
+        "body": "Thank you — we've emailed you a copy and will confirm your dates shortly."
+      },
+      "errors": {
+        "generic": "We couldn't send your request. Please try again or contact us directly.",
+        "unavailable": "Sorry, those dates were just taken.",
+        "validation": "Please check your details and try again.",
+        "pickNewDates": "Pick new dates"
+      }
+    }
   }
 }

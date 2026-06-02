@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-label="cycladic-loft placeholder">
+  <rect width="800" height="600" fill="#e9e2d0"/>
+  <rect x="0" y="380" width="800" height="220" fill="#1f6f8b" opacity="0.18"/>
+  <circle cx="640" cy="140" r="64" fill="#c9714b" opacity="0.85"/>
+  <text x="400" y="320" font-family="Georgia, serif" font-size="34" fill="#1c2a33" text-anchor="middle">cycladic-loft</text>
+  <text x="400" y="360" font-family="Helvetica, sans-serif" font-size="16" fill="#6b6b63" text-anchor="middle">replace with a real photo</text>
+</svg>

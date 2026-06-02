@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "_comment": "Cron pulls Booking.com + Airbnb iCal feeds into availability every 2h. Sync is periodic, not real-time — owner confirmation is the double-booking safety net. Vercel attaches the CRON_SECRET bearer token automatically.",
+  "crons": [
+    {
+      "path": "/api/cron/ical-import",
+      "schedule": "0 */2 * * *"
+    }
+  ]
+}
